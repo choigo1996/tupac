@@ -1,0 +1,12 @@
+package com.cbw.tupac.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.cbw.tupac.model.Album;
+import com.cbw.tupac.model.Song;
+
+public interface TupacRepository extends JpaRepository<Album, Long>{
+
+}

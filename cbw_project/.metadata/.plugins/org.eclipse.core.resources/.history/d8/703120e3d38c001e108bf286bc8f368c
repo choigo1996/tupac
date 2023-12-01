@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Young Black Male",
+		"album": {
+			"id" : 1,
+			"title": "2Pacalypse Now",
+			"release_date": "1991년 11월 12일",
+			"price": 30000,
+			"image": "https://i.namu.wiki/i/8d9f6w4ZsKVe9W_FAoBXjHBp1AWpf6x_uLo1cLFgChZkD7DQsquo-4SPhTtX5XW0ZZI5XrVbAWFZ90jpA2x-9k8bIrUeZszalxQBSOICzwwTvUhddwEps7BC839eKzeipcvsVoNheaNTx-LxPczO6g.webp",
+			"explanation": "《2Pacalypse Now》는 1991년 11월 12일 인터스코프 레코드와 자이브 레코드에 의해 발매된 미국의 래퍼 투팍의 솔로 데뷔 스튜디오 음반이다. 《2Pacalypse Now》는 인종차별, 경찰, 빈곤, 흑인 범죄, 10대 임신 등 미국 사회가 직면한 현대 사회 문제에 대한 투팍의 논평이다."
+								
+		},
+		"trackNum": 1
+	}
+                "songs": [
+                {
+                    "title": "Young Black Male",
+                    "album": {
+								"id" : 1,
+					            "title": "2Pacalypse Now",
+					            "release_date": "1991년 11월 12일",
+					            "price": 30000,
+					            "image": "https://i.namu.wiki/i/8d9f6w4ZsKVe9W_FAoBXjHBp1AWpf6x_uLo1cLFgChZkD7DQsquo-4SPhTtX5XW0ZZI5XrVbAWFZ90jpA2x-9k8bIrUeZszalxQBSOICzwwTvUhddwEps7BC839eKzeipcvsVoNheaNTx-LxPczO6g.webp",
+					            "explanation": "《2Pacalypse Now》는 1991년 11월 12일 인터스코프 레코드와 자이브 레코드에 의해 발매된 미국의 래퍼 투팍의 솔로 데뷔 스튜디오 음반이다. 《2Pacalypse Now》는 인종차별, 경찰, 빈곤, 흑인 범죄, 10대 임신 등 미국 사회가 직면한 현대 사회 문제에 대한 투팍의 논평이다."
+					            },
+            		"trackNum": 1
+                }
+                ]
+]               

@@ -1,0 +1,15 @@
+package com.cbw.tupac.repository;
+
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.cbw.tupac.dto.AlbumDto;
+import com.cbw.tupac.model.Album;
+
+public interface TupacRepository extends JpaRepository<Album, Long>{
+
+	List<AlbumDto> albumDto = null;
+
+}

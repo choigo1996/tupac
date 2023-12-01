@@ -1,0 +1,958 @@
+[
+    {
+        "album": {
+            "title": "2Pacalypse Now",
+            "release_date": "1991년 11월 12일",
+            "price": 30000,
+            "image": "https://i.namu.wiki/i/8d9f6w4ZsKVe9W_FAoBXjHBp1AWpf6x_uLo1cLFgChZkD7DQsquo-4SPhTtX5XW0ZZI5XrVbAWFZ90jpA2x-9k8bIrUeZszalxQBSOICzwwTvUhddwEps7BC839eKzeipcvsVoNheaNTx-LxPczO6g.webp",
+            "explanation": "《2Pacalypse Now》는 1991년 11월 12일 인터스코프 레코드와 자이브 레코드에 의해 발매된 미국의 래퍼 투팍의 솔로 데뷔 스튜디오 음반이다. 《2Pacalypse Now》는 인종차별, 경찰, 빈곤, 흑인 범죄, 10대 임신 등 미국 사회가 직면한 현대 사회 문제에 대한 투팍의 논평이다.",
+            "songs": [
+                {
+                    "title": "Young Black Male",
+                    "trackNum": 1
+                },
+				{
+				"title" : "Trapped (Ft. Shock G)",
+				"trackNum" : "2"
+				},
+				{
+					"title" : "Soulja's Story",
+					"trackNum" : "3"
+				},
+				{
+					"title" : "I Don’t Give a Fuck (Ft. Pogo (Rap))",
+					"trackNum" : "4"
+				},
+				{
+					"title" : "Violent",
+					"trackNum" : "5"
+				},
+				{
+					"title" : "Words of Wisdom",
+					"trackNum" : "6"
+				},
+				{
+					"title" : "Something Wicked (Ft. Pee Wee)",
+					"trackNum" : "7"
+				},
+				{
+					"title" : "Crooked Ass Nigga (Ft. Stretch)",
+					"trackNum" : "8"
+				},
+				{
+					"title" : "If My Homie Calls,10.Brenda's Got a Baby (Ft. Dave Hollister)",
+					"trackNum" : "9"
+				},
+				{
+					"title" : "Brenda's Got a Baby (Ft. Dave Hollister)",
+					"trackNum" : "10"
+				},
+				{
+					"title" : "Tha' Lunatic (Ft. Stretch)",
+					"trackNum" : "11"
+				},
+				{
+					"title" : "Rebel of the Underground (Ft. Ray Luv & Shock G)",
+					"trackNum" : "12"
+				},
+				{
+					"title" : "Part Time Mutha (Ft. Angelique & Poppi)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "13"
+				}
+	            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Me Against The World",
+		    "release_date": "1995년 3월 14일",
+		    "price": 30000,
+		    "image": "https://i.namu.wiki/i/qdzPeKrAU0v1Kk-gpk8xe7j0vUXIYUakbUTYW03jxCGQRC5y4qmJbr_u5W9saLgu7b_sO0KoLqzx_3en3O42Kj0WyDg2Z_Cqeh_ZUJ4TGVsabkV8VYic3C37e6bCXTalf-MX-u3TGuYx8tyaHlvckw.webp",
+		    "explanation" : "'All Eyez on Me'와 함께 투팍의 최고 명반으로 꼽힌다. 투팍이 가진 서정성을 가장 잘 표현한 앨범으로 1집과 2집이 사회적인 분노를 담았다면 3집의 경우는 자신의 어머니에 대한 이야기를 담은 'Dear Mama' 같이 시적인 내용이 주가 되고 있다.",
+			"songs": [
+				     {
+				"title" : "Intro",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "If I Die 2Nite",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Me Against the World (Ft. Outlawz)",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "So Many Tears",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Temptations",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Young Niggaz",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Heavy in the Game (Ft. Eboni Foster, Lady Levi & Richie Rich)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Lord Knows",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Dear Mama",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "It Ain't Easy",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Can U Get Away",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Old School",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "Fuck the World",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "Death Around the Corner",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Outlaw (Ft. Outlawz)",
+				"trackNum" : "15"
+			}
+		            ]
+		        }
+		    },
+    {
+        "album":  {
+	    "title": "All Eyez on Me",
+	    "release_date": "1996년 2월 13일",
+	    "price": 40000,
+	    "image": "https://i.namu.wiki/i/RTXofWRgJT2BmBl-25-_qFMVaSPUIRiRaxnjTISLc6rIGSEvvYaSDNyf1p44AO_fOsHT12gdDqL1bIS94AjZZX2BaLH6aIdvb_pA574m--Zyc2b2gDB8hmKFQoRGbWqibUfoocKvcXOHtiCuG-sy7Q.webp",
+	 	"explanation" : "1995년 10월 당시 투팍은 성 관련 범죄로 감옥에 있었으며, 파산 신청을 한 상태였기 때문에 보석금을 낼 수 없는 상태였다. 이를 알게 된 데스 로우 레코드(Death Row Records)의 사장인 슈그 나이트(Suge Knight)는 투팍이 데스 로우 레코드와 계약을 하고 3개의 앨범을 내는 조건을 걸고 보석금을 대신 내게 된다. 이로 인해 그 세개의 앨범을 만드는 프로젝트 중 첫번째가 바로 이 앨범. 초기에는 앨범 이름을 최고의 안락사(Supreme Euthanasia)로 하려 했으나 후에 모두 나를 바라 보고 있다.(All Eyez On Me)로 변경.투팍은 앨범의 작명 이유로 자신에게 느껴지는 현재 처지라 말했다.",
+     		"songs": [
+		     {
+				"title" : "Ambitionz Az a Ridah",
+				"album" : "All Eyez on Me",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "All About U (Ft. Dru Down, Hussein Fatal, Nate Dogg, Snoop Dogg & Yaki Kadafi)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Skandalouz (Ft. Nate Dogg)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Got My Mind Made Up (Ft. Tha Dogg Pound, Method Man & Redman)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "How Do U Want It (Ft. K-Ci & JoJo)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "2 Of Amerikaz Most Wanted (Ft. Snoop Dogg)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "No More Pain",
+				"album" : "All Eyez on Me",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Heartz Of Men",
+				"album" : "All Eyez on Me",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Life Goes On",
+				"album" : "All Eyez on Me",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Only God Can Judge Me (Ft. Rappin' 4-Tay)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Tradin' War Stories (Ft. C-Bo, Napoleon (Outlawz), Outlawz & Storm)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "California Love (Remix) (Ft. Dr. Dre & Roger Troutman)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "I Ain't Mad At Cha (Ft. Danny Boy Steward)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "What'z Ya Phone # (Ft. Danny Boy Steward)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Can't C Me (Ft. George Clinton)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "Shorty Wanna Be A Thug",
+				"album" : "All Eyez on Me",
+				"trackNum" : "16"
+			},
+			{
+				"title" : "Holla At Me (Ft. Nanci Fletcher)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "17"
+			},
+			{
+				"title" : "Wonda Why They Call U Bitch",
+				"album" : "All Eyez on Me",
+				"trackNum" : "18"
+			},
+			{
+				"title" : "When We Ride (Ft. Outlawz)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "19"
+			},
+			{
+				"title" : "Thug Passion (Ft. Jewell, Outlawz & Storm)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "20"
+			},
+			{
+				"title" : "Picture Me Rollin' (Ft. Big Syke, CPO & Danny Boy Steward)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "21"
+			},
+			{
+				"title" : "Check Out Time (Ft. Big Syke, Kurupt & Natasha Walker)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "22"
+			},
+			{
+				"title" : "Ratha Be Ya Nigga (Ft. Richie Rich)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "23"
+			},
+			{
+				"title" : "All Eyez On Me (Ft. Big Syke)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "24"
+			},
+			{
+				"title" : "Run Tha Streetz (Ft. Michel'le, Napoleon (Outlawz) & Storm)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "25"
+			},
+			{
+				"title" : "Ain't Hard 2 Find (Ft. B-Legit, C-Bo, D-Shot, E-40 & Richie Rich)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "26"
+			},
+			{
+				"title" : "Heaven Ain't Hard 2 Find (Ft. Danny Boy Steward)",
+				"album" : "All Eyez on Me",
+				"trackNum" : "27"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    },
+    {
+        "album": {
+		    "title": "Strictly 4 My N.I.G.G.A.Z...",
+		    "release_date": "1993년 2월 16일",
+		    "price": 35000,
+		    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+		 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다.",
+     		"songs": [
+		     {
+				"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+				"trackNum" : "1"
+			},
+			{
+				"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+				"trackNum" : "2"
+			},
+			{
+				"title" : "Point the Finga,4.Something 2 Die",
+				"trackNum" : "3"
+			},
+			{
+				"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+				"trackNum" : "4"
+			},
+			{
+				"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+				"trackNum" : "5"
+			},
+			{
+				"title" : "Souljah's Revenge",
+				"trackNum" : "6"
+			},
+			{
+				"title" : "Peep Game (Ft. Threat)",
+				"trackNum" : "7"
+			},
+			{
+				"title" : "Strugglin' (Ft. Live Squad)",
+				"trackNum" : "8"
+			},
+			{
+				"title" : "Guess Who's Back",
+				"trackNum" : "9"
+			},
+			{
+				"title" : "Representin' 93",
+				"trackNum" : "10"
+			},
+			{
+				"title" : "Keep Ya Head Up",
+				"trackNum" : "11"
+			},
+			{
+				"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+				"trackNum" : "12"
+			},
+			{
+				"title" : "The Streetz R Deathrow",
+				"trackNum" : "13"
+			},
+			{
+				"title" : "I Get Around (Ft. Digital Underground)",
+				"trackNum" : "14"
+			},
+			{
+				"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+				"trackNum" : "15"
+			},
+			{
+				"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+				"trackNum" : "16"
+			}
+            ]
+        }
+    }
+]

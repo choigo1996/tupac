@@ -1,0 +1,5 @@
+package com.cbw.tupac.dto;
+
+public class albumDto {
+
+}

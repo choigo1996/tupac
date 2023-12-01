@@ -1,0 +1,166 @@
+[
+    {
+        "album": {
+            "title": "2Pacalypse Now",
+            "release_date": "1991년 11월 12일",
+            "price": 30000,
+            "image": "https://i.namu.wiki/i/8d9f6w4ZsKVe9W_FAoBXjHBp1AWpf6x_uLo1cLFgChZkD7DQsquo-4SPhTtX5XW0ZZI5XrVbAWFZ90jpA2x-9k8bIrUeZszalxQBSOICzwwTvUhddwEps7BC839eKzeipcvsVoNheaNTx-LxPczO6g.webp",
+            "explanation": "《2Pacalypse Now》는 1991년 11월 12일 인터스코프 레코드와 자이브 레코드에 의해 발매된 미국의 래퍼 투팍의 솔로 데뷔 스튜디오 음반이다. 《2Pacalypse Now》는 인종차별, 경찰, 빈곤, 흑인 범죄, 10대 임신 등 미국 사회가 직면한 현대 사회 문제에 대한 투팍의 논평이다.",
+            "songs": [
+                {
+                    "title": "Young Black Male",
+                    "trackNum": 1
+                },
+				{
+					"title" : "Trapped (Ft. Shock G)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "2"
+				},
+				{
+					"title" : "Soulja's Story",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "3"
+				},
+				{
+					"title" : "I Don’t Give a Fuck (Ft. Pogo (Rap))",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "4"
+				},
+				{
+					"title" : "Violent",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "5"
+				},
+				{
+					"title" : "Words of Wisdom",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "6"
+				},
+				{
+					"title" : "Something Wicked (Ft. Pee Wee)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "7"
+				},
+				{
+					"title" : "Crooked Ass Nigga (Ft. Stretch)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "8"
+				},
+				{
+					"title" : "If My Homie Calls,10.Brenda's Got a Baby (Ft. Dave Hollister)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "9"
+				},
+				{
+					"title" : "Brenda's Got a Baby (Ft. Dave Hollister)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "10"
+				},
+				{
+					"title" : "Tha' Lunatic (Ft. Stretch)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "11"
+				},
+				{
+					"title" : "Rebel of the Underground (Ft. Ray Luv & Shock G)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "12"
+				},
+				{
+					"title" : "Part Time Mutha (Ft. Angelique & Poppi)",
+					"album" : "2Pacalypse Now",
+					"trackNum" : "13"
+				}
+            ]
+        }
+    },
+    {
+    "title": "Strictly 4 My N.I.G.G.A.Z...",
+    "release_date": "1993년 2월 16일",
+    "price": 35000,
+    "image": "https://i.namu.wiki/i/dnFr6eFbyRbk2T68JprkylEeNs6EHk_8bt3fLAqUTJvkkVsLQDfFZTt6kUZ-N7Y2mJTH7hAoZ4KPBVocrQdfLC4D93FOls1LliZku_KJ3nHrDSX5dQQDJBVKo2j6ApTN4PyeXT06as0kHDJQkLxqhQ.webp",
+ 	"explanation" : "1집의 노래들이 경찰과 백인들을 비판하는 한편 '흑인들이 이대로 가난하고 무식하게만 살 수 없다. 우리 스스로 변하자.' 같은 메세지를 전하는 것에도 초점이 맞춰진 것과 달리 2집의 노래들은 사회를 까는 과격한 가사 자체에 중점이 맞춰져 있다."
+ 	"song" : [
+		 {
+		"title" : "Holler If Ya Hear Me (Ft. Live Squad)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "1"
+	},
+	{
+		"title" : "Pac’s Theme [Interlude] (Ft. Dan Quayle)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "2"
+	},
+	{
+		"title" : "Point the Finga,4.Something 2 Die",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "3"
+	},
+	{
+		"title" : "Something 2 Die 4 [Interlude] (Ft. Dave Hollister)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "4"
+	},
+	{
+		"title" : "Last Wordz (Ft. Ice Cube & Ice-T)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "5"
+	},
+	{
+		"title" : "Souljah's Revenge",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "6"
+	},
+	{
+		"title" : "Peep Game (Ft. Threat)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "7"
+	},
+	{
+		"title" : "Strugglin' (Ft. Live Squad)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "8"
+	},
+	{
+		"title" : "Guess Who's Back",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "9"
+	},
+	{
+		"title" : "Representin' 93",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "10"
+	},
+	{
+		"title" : "Keep Ya Head Up",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "11"
+	},
+	{
+		"title" : "Strictly 4 My N.I.G.G.A.Z... (Ft. Pacific Heights)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "12"
+	},
+	{
+		"title" : "The Streetz R Deathrow",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "13"
+	},
+	{
+		"title" : "I Get Around (Ft. Digital Underground)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "14"
+	},
+	{
+		"title" : "Papa'z Song (Ft. Mopreme Shakur & Poppi)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "15"
+	},
+	{
+		"title" : "5 Deadly Venomz (Ft. Apache, Live Squad & Treach)",
+		"album" : "Strictly 4 My N.I.G.G.A.Z...",
+		"trackNum" : "16"
+	}
+	 ]
+ 	},
+]

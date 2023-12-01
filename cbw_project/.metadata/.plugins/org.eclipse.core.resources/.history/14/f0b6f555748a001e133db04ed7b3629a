@@ -1,0 +1,5 @@
+package com.cbw.tupac.model;
+
+public class Song {
+
+}

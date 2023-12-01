@@ -1,0 +1,25 @@
+package com.cbw.tupac.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.io.Resource;
+import org.springframework.stereotype.Service;
+
+import com.cbw.tupac.repository.TupacRepository;
+
+import jakarta.annotation.PostConstruct;
+
+@Service
+public class SongIOSuervice {
+	@Autowired
+	private TupacRepository tupacRepository;
+	
+	@Value("classpath:song.json")
+	private Resource jsonFile;
+	
+	@PostConstruct
+	public void initialize() {
+		processJsonData(jsonFile);
+	}
+	
+}

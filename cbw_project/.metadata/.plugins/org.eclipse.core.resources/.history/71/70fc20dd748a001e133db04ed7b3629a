@@ -1,0 +1,9 @@
+package com.cbw.tupac.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@Table(name="song")
+public class Song {
+
+}
